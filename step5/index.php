@@ -1,0 +1,1 @@
+<? echo "I love Docker compose \n\n";
